@@ -1,0 +1,31 @@
+Détecteur d’insultes
+
+Détecter les mots vulgaires pour les censurer.
+Taux de mots grossiers.
+Utilisation de TextBlob pour améliorer le projet.
+Français ou Anglais ? A priori Anglais
+
+Étape 1 : Détecter les insultes (MVP)
+
+    sprint 1 : Obtenir une base de données d'insultes à détecter
+    sprint 2 : Prise en main de l'API Twitter pour extraire des tweets à analyser
+    sprint 3 : Rendre des tweets bruts intelligibles en supprimant les parasites
+    sprint 4 : Implémentation de fonctions élémentaires pour détecter les insultes d'un tweet
+    sprint 5 : Interface utilisateur
+    
+Étape 2 : Visualisation des résultats 
+
+    sprint 6 : Affichage de diagrammes synthetisant la recherche
+    sprint 7 : Coefficientage et caractérisation des insultes
+    sprint 8 : Mise en place d'un dispositif de censure
+    sprint 9 : Graphiques statistiques 
+    
+Étape 3 : Analyser la répercussion d'un tweet insultant sur ses réponses 
+
+    sprint 10 : Obtenir les réponses d'un tweet donnée
+    sprint 11 : Visualisation de la vulgarité moyenne du 1er noeud de réponse en fonction de la vulgarité de tweet d'une certaine query
+    sprint 12 : Obtenir les n-noeuds de réponses d'un tweet donné
+    sprint 13: Calcul de la vulgarité moyenne de chaque noeud de réponses 
+    sprint 14 : Représentation graphique de la vulgarité en fonction du noeud 
+
+ 

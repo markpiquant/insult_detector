@@ -1,5 +1,3 @@
-# insult_detector
-Training an insultes detector for tweets
 # CSA (CentraleSupélec Autocensure)
 
 
@@ -72,3 +70,4 @@ Then answer these questions in the terminal :
 * Hugo Hakem
 * Mark Piquant
 * Noé Prat
+
